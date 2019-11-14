@@ -36,9 +36,9 @@ Listas numeradas o sin enumerar(- * + dan todas el mismo resultado):
 
 Lista con checked items:
 - [x] Login
-- [x] Products
+- [ ] Products
 - [x] Suppliers
-- [x] Purchases
+- [ ] Purchases
 - [x] Sales
 
 ~~~
@@ -54,7 +54,7 @@ int c = a + b;
 Tabla
 
 |dat|dat2|
-|
+|---|---|
 |a|bbbbbbbb|
 |aaa|bbbbb|
 |aaaaa|bb|
