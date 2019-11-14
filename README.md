@@ -17,8 +17,11 @@ _ _ _
 Texto en **negrita** o __negrita__ o *cursiva* o _cursiva_ o ***ambas*** o ___ambas___.  
 Para anular cualquier símbolo especial \*\_\`.  
 [Link normal](https://www.google.com) y sin sustituir texto <https://www.google.com>  
-Palabras `marcadas` incluso [`link marcado`](https://www.google.com).  
-![Imagen](Probando.png) (el texto entre corchetes es el que aparece si la carga de la imagen falla)
+Palabras `marcadas` incluso [`link marcado`](https://www.google.com).
+
+
+![Imagen](Probando.png)
+
 
 > Poner una cita - yo mismo
 >> Y una subcita trás la cita anterior - Dijo otra persona
