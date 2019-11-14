@@ -19,9 +19,7 @@ Para anular cualquier símbolo especial \*\_\`.
 [Link normal](https://www.google.com) y sin sustituir texto <https://www.google.com>  
 Palabras `marcadas` incluso [`link marcado`](https://www.google.com).
 
-<img src=".screenshots/Probando.PNG" alt="Imagen" width="149" />
-
-![gj](.screenshots/Probando.PNG)
+![ggg](Probando.png)
 
 > Poner una cita - yo mismo
 >> Y una subcita trás la cita anterior - Dijo otra persona
